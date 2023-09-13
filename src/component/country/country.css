@@ -4,3 +4,10 @@
     margin: 15px;
     padding: 15px;
 }
+
+.btn-visit{
+    border: 2px solid tomato;
+    border-radius: 5px;
+    background: tomato;
+    padding: 10px 15px;
+}
